@@ -28,13 +28,13 @@ With features like encrypted private key handling, this tool is ideal for crypto
 
 ## Available Services and Products 
 
-### 1. **Bot Script** 可用服务与产品
+### 1. **Bot Script** **可用服务与产品**
 - Price: **20 USDT** 价格： **20 USDT**
 - Includes 包括:
   - The complete TRON Auto-Transfer exe. 完整TRON自动转账程序（.exe可执行文件）
   - Secure and optimized for automated TRX transactions. 安全优化设计：专为TRX自动化交易打造
 
-### 2. **Step-by-Step Tutorial**
+### 2. **Step-by-Step Tutorial** **分步教程指南**
 - Price: **5 USDT**
 - Includes:
   - Detailed guidance on setting up and using the bot. 详细指南：手把手教您配置和使用自动化交易机器人
