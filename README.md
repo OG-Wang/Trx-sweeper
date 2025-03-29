@@ -26,9 +26,9 @@ With features like encrypted private key handling, this tool is ideal for crypto
 
 # Pricing 价格
 
-## Available Services and Products 
+## Available Services and Products 可用服务与产品
 
-### 1. **Bot Script** **可用服务与产品**
+### 1. **Bot Script** **脚本**
 - Price: **20 USDT** 价格： **20 USDT**
 - Includes 包括:
   - The complete TRON Auto-Transfer exe. 完整TRON自动转账程序（.exe可执行文件）
